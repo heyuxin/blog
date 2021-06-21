@@ -1,0 +1,1 @@
+import{o as n,c as s,a}from"./app.b8a24ffe.js";const p='{"title":"","description":"","frontmatter":{},"relativePath":"guide/sql.md","lastUpdated":1624288015984}',e={},t=a('',2);e.render=function(a,p,e,o,c,k){return n(),s("div",null,[t])};export default e;export{p as __pageData};
