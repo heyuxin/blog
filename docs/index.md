@@ -12,6 +12,6 @@ features:
   - title: 后端
     details: 记录node.js SQL语句 Linux命令行的知识
   - title: 生活
-    details: 菜谱 美食 运动 健康
+    details: 菜谱 网络 运动 健康
 footer: MIT Licensed | Copyright © 2021-present heyuxin
 ---
